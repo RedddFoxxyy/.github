@@ -14,5 +14,3 @@
 [![Flathub](https://img.shields.io/badge/FLATHUB-VERIFIED-2185d0?style=for-the-badge&logo=flathub&logoColor=white)](https://flathub.org/apps/collection/developer/io.github.redddfoxxyy)
 
 <br>
-
-<small><i>Namespace verified for Flathub ID: <code>io.github.redddfoxxyy</code></i></small>
